@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="KiteWelcome">
-    <option name="hl" value="false" />
+  <component name="IpnbSettings">
+    <option name="workingDirectory" value="$PROJECT_DIR$/../imputo" />
+    <option name="URL" value="http://localhost:8889" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.1 (~/anaconda/envs/python36/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 (/usr/bin/python)" project-jdk-type="Python SDK" />
 </project>
