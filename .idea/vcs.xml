@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSI-Precourse" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PythonFundamentals" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/precourse" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../imputo" vcs="Git" />
   </component>
 </project>
