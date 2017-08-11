@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Galvanize.iml" filepath="$PROJECT_DIR$/.idea/Galvanize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsi-logistic-regression/.idea/dsi-logistic-regression.iml" filepath="$PROJECT_DIR$/dsi-logistic-regression/.idea/dsi-logistic-regression.iml" />
     </modules>
   </component>
 </project>

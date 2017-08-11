@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSI-Precourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-ab-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-assessment-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-assessment-3a" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-assessment-3b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-boosting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-estimation-sampling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-fundamentals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-gradient-descent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-linear-algebra-eda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-linear-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-logistic-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-multi-armed-bandit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-non-parametric-learners" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-pandas-seaborn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-power-bayesian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-python-intro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-python-workshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-random-forest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-regression-case-study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-regularized-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-svm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-welcome" vcs="Git" />
+  </component>
+</project>

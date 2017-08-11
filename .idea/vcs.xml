@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DSI-Precourse" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PythonFundamentals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dsi-logistic-regression" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/precourse" vcs="Git" />
   </component>
 </project>
